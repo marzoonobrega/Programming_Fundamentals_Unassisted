@@ -1,0 +1,47 @@
+body{
+	font-family: helvetica, sans-serif;
+	color: #FFF;
+	background-color: #000;
+}
+
+h1{
+	font-size: 2em;
+	color: #FFF;
+}
+
+p{
+	font-size: 1em;
+	color: #FFF;
+	padding-top: 30px;
+}
+
+form select {
+    background-color: #C0C0C0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+form #pass{
+	border: 1px;
+	border-radius: 0.5px;
+}
+
+form p{
+	 background-color: #696969;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: helvetica, sans-serif;
+}
+
+button{
+	background-color: #C0C0C0;
+}

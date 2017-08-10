@@ -1,0 +1,56 @@
+
+#jsalarmclock{
+font-family: Helvetica, san-serif;
+font-weight: bold;
+font-size: 12px;
+}
+
+#jsalarmclock div{
+margin-bottom: 0.8em;
+}
+
+#jsalarmclock div.other{
+float: left;
+width: 150px;
+font-size: 13px;
+background-color: grey;
+clear: left;
+}
+
+#jsalarm_ct{
+	font-size: 50px;
+	color: #FFF;
+}
+
+#jsalarmclock span{
+margin-right: 5px;
+}
+
+#hidden{
+	display: none;
+	visibility: hidden;
+}
+
+body{
+	background-color: #000;
+}
+
+form p{
+	color: #FFF;
+}
+
+.floatright{
+	float: right;
+}
+
+.floatleft{
+ float: left;
+}
+
+.clearfix{
+	clear: both;
+}
+
+.center{
+	text-align: center;
+}
